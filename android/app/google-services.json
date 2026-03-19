@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "962555135029",
+    "project_id": "flutter-hw32",
+    "storage_bucket": "flutter-hw32.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962555135029:android:5ab652303f3880a99d9d7c",
+        "android_client_info": {
+          "package_name": "com.hw32.hw32"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962555135029-a4e6nv9ud49rc548t6mj605f42ebol5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQf3TGPN3C54UZe57O5ruL40j7-ZJWHDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962555135029-a4e6nv9ud49rc548t6mj605f42ebol5k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "962555135029-6pt1f9582ulnp5ea8rivstk2pmfgjb6f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hw32.hw32"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
